@@ -4,12 +4,9 @@
 let users = [
     {
         "id": 1,
-        "name : "Yajindra",
+        "name : "Gaurav",
     },
-    {
-        "id": 2,
-        "name : "Anup",
-    }
+    
 ]
 ```
 
